@@ -1,0 +1,11 @@
+{
+    "common_task_categories": {
+        "General": 1
+    },
+    "preferred_times_for_categories": {},
+    "accepted_suggestion_types": {
+        "handle_organization_choice": 2
+    },
+    "declined_suggestion_types": {},
+    "last_active_date": "2025-05-26"
+}
